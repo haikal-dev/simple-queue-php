@@ -25,3 +25,7 @@ php artisan serve
 ```
 
 - Your staging server should be run on http://localhost:8000
+
+Your web app should appear like this:
+
+![localhost:8000](https://github.com/mhaikalazizan/laravel-starter/blob/master/deploy.jpg?raw=true)
