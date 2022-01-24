@@ -12,10 +12,20 @@
 git clone https://github.com/mhaikalazizan/laravel-starter.git
 ```
 
+- Go to 'laravel-starter' directory
+
+- Copy '.env.example' & paste as '.env' in same directory
+
 - Second, update composer by CLI:
 
 ```
 composer update
+```
+
+- Generate application key by CLI
+
+```
+php artisan key:generate
 ```
 
 - Last, deploy staging server using CLI: 
