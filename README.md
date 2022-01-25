@@ -4,7 +4,6 @@ I'm trying to achieve simple queue management (paperless) when people waiting fo
 
 ## TO DO (For development)
 
-- Implement DB.
 - Implement a form for creating a new line and generate QR code.
 - Implement an application form for queue in selected line.
 - Implement admin (authorized line) to call people and remove the queue.
